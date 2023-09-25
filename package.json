@@ -1,0 +1,25 @@
+{
+  "name": "tinyurl-bot",
+  "version": "1.0.1",
+  "description": "Javascript discord bot, with you can shorten your long links to http://tinyurl.com/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord bot",
+    "tinyurl",
+    "url shortener"
+  ],
+  "author": "PetyXbron",
+  "license": "GNU AGPLv3",
+  "bugs": {
+    "url": "https://github.com/PetyXbron/discord-tinyurl-bot/issues"
+  },
+  "homepage": "https://github.com/PetyXbron/discord-tinyurl-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "install": "^0.13.0",
+    "tinyurl": "^1.1.7"
+  }
+}
